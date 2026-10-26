@@ -5,13 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://amisor.github.io">
-    <img src="https://img.shields.io/badge/Visit%20my%20website-amisor.github.io-0a8194?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website: amisor.github.io">
-  </a>
+  I enjoy using data to tackle problems in health.<br>
+  Get to know me by checking out my website 👇
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ivanasanchezolivares">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://amisor.github.io"><img src="assets/website-button.svg" alt="Website: amisor.github.io"></a>
+  <a href="https://linkedin.com/in/ivanasanchezolivares"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
