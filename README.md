@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ivana 👋</h1>
 
-<!--
-**Amisor/Amisor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Bioinformatics · Machine Learning · Statistical Modelling · Reproducible Pipelines
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://amisor.github.io">
+    <img src="https://img.shields.io/badge/Visit%20my%20website-amisor.github.io-0a8194?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website: amisor.github.io">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/ivanasanchezolivares">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
