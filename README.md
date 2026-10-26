@@ -10,6 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://amisor.github.io"><img src="assets/website-button.svg" alt="Website: amisor.github.io"></a>
+  <a href="https://amisor.github.io"><img src="assets/website-button.svg" alt="Website"></a>
   <a href="https://linkedin.com/in/ivanasanchezolivares"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
